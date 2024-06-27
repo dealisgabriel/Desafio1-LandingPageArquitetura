@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#menusuperior{
+    background-color: #303030;
+}
+
+#titulo-menusuperior{
+    color: #FFFFFF;
+    padding-top: 130px;
+    margin-left: 45px;
+    font-size: 45px;
+    font-weight: 600;
+}
+
+#texto-menusuperior{
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-bottom: 115px;
+    margin-left: 45px;
+}
+
+#menuinformacional{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-top: 70px;
+    padding-bottom: 55px;
+}
+
+.texto-menuinformacional{
+    margin-left: 125px;
+    font-weight: 420;
+    
+}
+
+span{
+    font-weight: 650;
+    font-size: 35px;
+}
+
+#menuimagem{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-bottom: 65px;
+}
+
+#imagemdomenu{
+    width: auto;
+    height: 600px;
+    top: 781px;
+    left: 876px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
+    margin-right: 50px;
+    padding-top: 65px;
+}
+
+#textoimagem{
+    color: #000000;
+    padding-top: 250px;
+    margin-left: 90px;
+    font-size: 19px;
+}
+
+#textomenuimagem{
+    padding-top: 30px;
+}
+
+#titulodaimagem{
+    font-weight: 550;
+    font-size: 32px;
+}
+
+#formulario{
+    text-align: center;
+    background-color: #303030;
+    padding-bottom: 90px;
+    padding-top: 70px;
+}
+
+#tituloformulario{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    font-size: 32px;
+    
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    border: 0;
+    border-radius: 10px;
+    margin: 27px;
+    padding-left: 20px;
+    font-size: 24px;
+    font-family: "raleway";
+}
+
+button{
+    background-color: #C07212;
+    color: #FFFFFF;
+    margin-top: 70px;
+    border: 0;
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: "raleway";
+    cursor: pointer;
+}
